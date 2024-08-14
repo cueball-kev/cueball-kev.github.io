@@ -4,4 +4,4 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Kevin Elmer"
-build.build-dir = "/pages/"
+build.build-dir = "/pages/" 
