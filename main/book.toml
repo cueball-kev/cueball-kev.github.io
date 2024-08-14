@@ -5,5 +5,5 @@ multilingual = false
 src = "src"
 title = "Kevin Elmer"
 
-[output.html]
-default-theme = "night"
+[build]
+build-dir = "build/"
