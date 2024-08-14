@@ -2,7 +2,7 @@
 
 ## About
 
-Hello! I'm Kevin. I'm a game developer based in New Jersey.
+Hello! I'm Kevin. I'm a game developer and writer based in New Jersey.
 
 ## Links
 
